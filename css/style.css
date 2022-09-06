@@ -1,0 +1,23 @@
+.button
+{
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+    padding: .8em 1em calc(.8em + 3px);
+    border-radius: 3px;
+    background: rgb(88, 43, 17);
+    box-shadow: 0 -3px rgb(90, 57, 20) inset;
+    transition: 0.2s;
+    position: absolute;
+    top: 148px;
+    left: 1000px;
+    opacity: 60%;
+}
+.Up-board
+{
+    height: 200px;
+    width: 100%;
+    background:url("/images/photo.webp") center no-repeat;
+    background-size:cover;
+
+}
