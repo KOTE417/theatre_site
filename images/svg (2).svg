@@ -1,0 +1,14 @@
+<svg width="40" height="40" xmlns="http://www.w3.org/2000/svg" stroke="null" style="vector-effect: non-scaling-stroke;">
+ <g stroke="null" id="Layer_1">
+  <title stroke="null">Layer 1</title>
+  <path stroke="#000" transform="translate(-3.999833299192094,-1.3876194323551383) scale(0.005) translate(3.999833299192094,1.3876194323551383)" id="svg_3" d="m1,1l149,0l0,0c82.29044,0 149,66.70957 149,149c0,82.29044 -66.70956,149 -149,149l-149,0l0,-298z" opacity="NaN" fill="url(#svg_2)"/>
+  <path stroke="#000" transform="translate(0.43762776739553644,0.9248602784017947) scale(0.005) translate(-0.43762776739553644,-0.9248602784017947)" id="svg_4" d="m1,1l149,0l0,0c82.29044,0 149,66.70957 149,149c0,82.29044 -66.70956,149 -149,149l-149,0l0,-298z" opacity="NaN" fill="url(#svg_2)"/>
+  <path stroke="#000" transform="translate(-3.374838782771299,-0.1376303995135526) scale(0.005) translate(3.374838782771299,0.1376303995135526)" id="svg_5" d="m1,1l149,0l0,0c82.29044,0 149,66.70957 149,149c0,82.29044 -66.70956,149 -149,149l-149,0l0,-298z" opacity="NaN" fill="url(#svg_2)"/>
+  <path stroke="#000" transform="translate(2.562609123226231,5.862316958126057) scale(0.005) translate(-2.562609123226231,-5.862316958126057)" id="svg_6" d="m1,1l149,0l0,0c82.29044,0 149,66.70957 149,149c0,82.29044 -66.70956,149 -149,149l-149,0l0,-298z" opacity="NaN" fill="url(#svg_2)"/>
+  <path transform="rotate(49.6359 -0.967993 13.3526)" stroke="#000" id="svg_7" d="m-11.47405,-10.57021l10.50606,0l0,0c5.80233,0 10.50606,10.7106 10.50606,23.9228c0,13.2122 -4.70372,23.9228 -10.50606,23.9228l-10.50606,0l0,-47.8456z" fill="#4D2425"/>
+  <path transform="rotate(-39.3299 37.6908 9.40452)" stroke="#000" id="svg_10" d="m49.21758,-10.78106l-11.52676,0l0,0c-6.36606,0 -11.52676,9.03739 -11.52676,20.18558c0,11.14819 5.1607,20.18558 11.52676,20.18558l11.52676,0l0,-40.37116z" fill="#4D2425"/>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="15" stroke-width="0" id="svg_11" y="24.5497" x="11.50003" stroke="#000" fill="#000000">по</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="13" id="svg_12" y="36.9871" x="0.93758" stroke-width="0" stroke="#000" fill="#000000">МОСТ</text>
+ </g>
+
+</svg>
