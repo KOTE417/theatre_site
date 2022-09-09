@@ -1,90 +1,13 @@
-.button
-{
-    font-weight: 700;
-    color: white;
-    text-decoration: none;
-    padding: .8em 1em calc(.8em + 3px);
-    border-radius: 3px;
-    background: rgb(88, 43, 17);
-    box-shadow: 0 -3px rgb(90, 57, 20) inset;
-    transition: 0.2s;
-    position: absolute;
-    top: 148px;
-    left: 1000px;
-    opacity: 60%;
-}
-.button_active
-{
-    font-weight: 700;
-    color: rgb(255, 0, 0);
-    text-decoration: none;
-    padding: .8em 1em calc(.8em + 3px);
-    border-radius: 3px;
-    background: rgb(255, 255, 255);
-    box-shadow: 0 -3px rgb(90, 57, 20) inset;
-    transition: 0.2s;
-    position: absolute;
-    top: 148px;
-    left: 1000px;
-    opacity: 60%;
-}
-.button:hover
-{
-    color: red;
-    border-radius: 5px;
-    box-shadow: 0 -5px rgb(90, 57, 20) inset;
-    background-color: white;
+.carousel {
+    box-shadow: #000 2px;
+  }
+  .carousel-inner {
+    margin: 0 auto;
 
-}
-.Up-board
-{
-    height: 200px;
-    width: 100%;
-    background:url("/images/photo.webp") center no-repeat;
-    background-size:cover;
-}
-.background
-{
-    height: 100%;
-    width: 100%;
-    background:url("/images/curtains.webp") center no-repeat;
-    background-size:cover;
-}
-.text
-{
-    font-family:Verdana, Geneva, Tahoma, cursive;
-    color: rgb(0, 0, 0);
-    text-align: center;
-    background-color: antiquewhite;
-    padding: .8em 1em calc(.8em + 3px);
-    transition: 0.2s;
-    position: relative;
-    top: 200px;
-    opacity: 60%; 
-}
-h1
-{
-    color: rgb(0, 0, 0);
-    text-align: center;
-    background-color: antiquewhite;
-    padding: .8em 1em calc(.8em + 3px);
-    transition: 0.2s;
-    position: absolute;
-    top: 200px;
-    left: 45%;
-    opacity: 60%;
-}
-p
-{
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: rgb(0, 0, 0);
-    text-align: center;
-    background-color: antiquewhite;
-    padding: .8em 1em calc(.8em + 3px);
-    transition: 0.2s;
-    position: relative;
-    top: 180px;
-    opacity: 60%; 
-}
-
-
+  }
+  .carousel-indicators li {
+    border-color: #000;
+  }
+  .carousel-indicators .active {
+    background-color: #000;
+  }
